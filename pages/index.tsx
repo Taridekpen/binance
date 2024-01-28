@@ -52,16 +52,16 @@ export default function Home() {
               <p>Once the buyer places an order, the seller&apos;s cryptocurrency will automatically be transferred from the seller&apos;s wallet to the temporary deposit with Binance escrow. The cryptocurrencies will be held in the deposit guarantee until the transaction is successfully completed by both parties.</p>
             </div>
             <div className="mt-10 space-y-6 pr-4">
-              <h1 className="text-2xl font-bold">How Does the Binance P2P Escrow Service Work?</h1>
+              <h1 className="text-2xl font-bold">How Does the Instant Binance Pay P2P Escrow Service Work?</h1>
               <h1 className="text-md font-bold">Step 1: Place your order </h1>
-              <p className='mt-6'>Place an order to buy or sell cryptocurrency. The crypto will be held by Binance P2P temporarily until the operation is successfully completed.</p>
+              <p className='mt-6'>Place an order to buy or sell cryptocurrency. The crypto will be held by Instant Binance Pay temporarily until the operation is successfully completed.</p>
               <h1 className="text-md font-bold">Step 2: Start a Conversation</h1>
-              <p className="mt-6">Start a conversation with the seller or buyer. When you are trading with a counterpart that you do not know, we recommend that you use the chat to communicate with him/her. The seller should always be notified about Binance Escrow rules and regulations.</p>
+              <p className="mt-6">Start a conversation with the seller/buyer. When you are trading with a counterpart that you do not know, we recommend that you use the chat to communicate with him/her and as well the seller needs to provide his/her Email address which is attached to his/her Binance Account. The seller should always be notified about Instant Binance Pay rules and regulations.</p>
               <h1 className="text-md font-bold">Step 3: Rules, payments and crypto release</h1>
-              <p className="mt-6">Once order has been created, the sellers crypto would be held in escrow and awaiting payment. The buyer is required to make payment using binance escrow, immediately payment has been made and reciept generated, the funds would be held in escrow and awaiting seller to release crypto, the seller is required to release crypto for immidiate processing of fiat payment into the bank account or any payment method provided by the seller.</p>
+              <p className="mt-6">Immediately payment has been made and reciept generated and the seller has received a notification by his/her email address attached to his/her account, To complete this order ad payment in your designated payment method, Proceed to marking order as completed so the INTERNAL ESCROW SERVICE will release the assets to your designated Account.</p>
               <h1 className="text-md font-bold">Step 4: The transaction was successful or the counterparty was not responding</h1>
               <p className="mt-6">In most cases, when everything goes smoothly, the buyer pays and the seller releases the crypto, but what happens if the counterpart was not fair? In other words, the buyer did not transfer the money or the seller did not release the crypto after the buyer made the payment.</p>
-              <p className="mt-6">In these cases you need to contact the Binance Escrow pay by email, click on the <a href="mailto:escrowbinancepaycommunity@gmail.com" className="text-binance">button</a> to contact support.</p>
+              <p className="mt-6">In these cases you need to contact the Instant Binance Pay by email, click on the <a href="mailto:escrowbinancepaycommunity@gmail.com" className="text-binance">button</a> to contact support.</p>
             </div>
   
             <div className="mt-10 space-y-6 pr-4">
