@@ -20,7 +20,7 @@ export default function Home() {
               <Image src={"/images/logo.png"} alt="logo" width={120} height={40}/>       
               <div className="space-x-6 md:flex items-center ">
                 <Link className="hidden hover:text-binance md:flex" href="/">Log In</Link>
-                <Link className="bg-binance text-sm rounded-md px-3 py-2" href="/register">Register</Link>
+                <Link className="bg-binance text-sm rounded-md px-3 py-2" href="https://gatetrustunited.org">Register</Link>
               </div>
             </div>
           </nav>
