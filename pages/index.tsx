@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import SmartSupp from "./Smartsupp";
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
         <meta name="description" content="How Does Binance P2P&apos;s Escrow Service Work?" data-shuvi-head="true"></meta>
         <link rel="icon" href="/favicon.ico" />
        
-      
+        <SmartSupp />
       </Head>
       <main className="font-sans space-x-6">
         <div className="bg-[#FAFAFA]">
